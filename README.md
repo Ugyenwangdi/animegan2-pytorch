@@ -127,3 +127,4 @@ Trained on <b>512x512</b> face images. Compared to v1, `🔻beautify` `🔺robus
 </details>
 
 
+AnimeGANv2
